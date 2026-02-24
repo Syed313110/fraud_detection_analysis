@@ -9,10 +9,3 @@ node_modules/
 cloudinary_python.txt
 kaggle.json
 .venv/
-
-data/raw/
-data/processed/
-models/
-*.csv
-*.pkl
-.ipynb_checkpoints/
