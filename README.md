@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# **Credit Card Fraud Detection**
 
 I was contracted as a Data Analyst for NovaPay, a UK-based fintech startup that processes card payments for small and medium-sized e-commerce merchants. NovaPay has experienced a sharp rise in fraudulent transactions, resulting in significant financial losses and a growing loss of trust among their merchant partners.
 
