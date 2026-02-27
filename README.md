@@ -19,7 +19,7 @@ The analysis includes:
 
 **Power BI Interactive Dashboard**
 
-View the interactive dashboard online: `[Add dashboard link here once published]`
+View the interactive dashboard online: [Fraud Detection Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTRkMjEzOTYtM2Y4Zi00MGJlLWE5MjUtY2JiNjQyYTExMzA2IiwidCI6ImMyMzNjMDcyLTEzNWItNDMxZC1hZjU5LTM1ZTA1YmFiZjk0MSIsImMiOjh9)
 
 ---
 
